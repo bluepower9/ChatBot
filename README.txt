@@ -1,4 +1,5 @@
-This is our chatbot model.  It has many layers and parts to it each in its own file.
+# Welcome to my chatbot model!
+It has many layers and parts to it each in its own file.
 
 Our model relies on Pytorch, SpaCy english which can be found here: https://spacy.io/models/en 
 and Pyttsx3 which is used for text to speech which can be found here: https://pypi.org/project/pyttsx3/.
@@ -20,4 +21,5 @@ SRC FILES
                     REQUIRED: -src_data, -trg_data
                     OPTIONAL:  -epochs, -load_weights
                     OTHER ARGUMENTS: there are other arguments but they are not needed to train the model and only useful for finetuning/experimenting.
+    
     
