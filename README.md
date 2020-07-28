@@ -6,6 +6,8 @@ and [Pyttsx3](https://pypi.org/project/pyttsx3/) which is used for text to speec
 
 A preprocessed dataset can be found in the directory data/
 
+*Note that pretrained weights are not included and must be generated fresh by a user.
+
 ### SRC FILES
 ```markdown
     * batch.py    -   creates batches for the training data set
